@@ -1,0 +1,1 @@
+id_tekhniki, id_klienta, vid_tekhniki, proizvoditel, model, serijnyj_nomer
