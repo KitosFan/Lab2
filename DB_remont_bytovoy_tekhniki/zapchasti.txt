@@ -1,0 +1,1 @@
+id_zapchasti, nazvanie, artikul, cena, kolichestvo_na_sklade
