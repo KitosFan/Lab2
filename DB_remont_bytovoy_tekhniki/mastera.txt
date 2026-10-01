@@ -1,0 +1,1 @@
+id_mastera, familiya, imya, specializaciya, telefon, staz
