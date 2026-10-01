@@ -1,0 +1,1 @@
+id_zayavki, id_klienta, id_tekhniki, id_mastera, data_priema, neispravnost, status
